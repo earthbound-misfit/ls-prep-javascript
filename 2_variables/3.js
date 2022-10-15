@@ -1,0 +1,1 @@
+// You get an error because the foo variable is declared within the block and you can't access it outside of it since it is outside the scope.

@@ -1,0 +1,1 @@
+// This program will not produce an error, it will return 'bar' because the two constant variables that are declared are in different scopes - one within the block and one outside of it, so they don't conflict with each other. 
