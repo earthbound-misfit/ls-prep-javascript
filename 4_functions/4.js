@@ -1,0 +1,1 @@
+// the 'return' keyword ends the function, so nothing is logged.

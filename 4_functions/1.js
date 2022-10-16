@@ -1,0 +1,1 @@
+// This logs 1 to the console. Executing the 'foo' function does not affect the output, because that is within the scope of the function. If we hadn't used the 'let' keyword, then the function would instead reassign the bar variable to equal 2, and in that case we would get 2 back. 
