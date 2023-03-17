@@ -1,15 +1,28 @@
-let num = 4936
-let ones = num % 10
-console.log(`${ones} is in the ones place.`)
+let number = 4936
 
-num = (num - ones) / 10
-let tens = num % 10
-console.log(`${tens} is in the tens place.`)
+//ones
 
-num = (num - tens) / 10
-let hundreds = num % 10
-console.log(`${hundreds} is in the hundreds place.`)
+let ones = number % 10
 
-num = (num - hundreds) / 10
-let thousands = num % 10
-console.log(`${thousands} is in the thousands place.`)
+//tens
+
+number = (number - ones) / 10
+
+let tens = number % 10
+
+//hundreds
+
+number = (number - tens) / 10
+
+let hundreds = number % 10
+
+//thousands
+
+number = (number - hundreds) / 10
+
+let thousands = number % 10
+
+
+
+
+

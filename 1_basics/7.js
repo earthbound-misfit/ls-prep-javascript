@@ -1,5 +1,1 @@
-/*
-Will an error occur if you try to access an array element with an index that is greater than or equal to the length of the array? 
-
-No, it will return 'undefined'
-*/
+// No, it will return undefined when you to try access an array element that doesn't exist. 

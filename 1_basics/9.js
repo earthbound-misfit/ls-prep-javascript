@@ -1,9 +1,8 @@
-let pets = {
+const pets = {
   'Betty': 'dog',
-  'Tripp': 'chinchilla',
-  'Oakley': 'squirrel',
-  'Buddy': 'capybara',
+  'Slinky': 'dog',
+  'Sassy': 'cat',
+  'Midnight': 'cat',
+  'Ozzy': 'dog',
 }
 
-console.log(pets)
-console.log(typeof(pets))
